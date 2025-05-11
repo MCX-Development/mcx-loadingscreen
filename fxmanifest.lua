@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'MCX Development'
+author 'Virtual Network Scripts'
 description 'Loading screen'
 version '1.0.0'
 
